@@ -1,0 +1,19 @@
+{
+  "name": "mySelf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "licence": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "connect-busboy": "0.0.2",
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.1",
+    "nodemon": "^1.18.11"
+  }
+}
